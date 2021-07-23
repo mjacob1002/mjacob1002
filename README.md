@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Mathew and I am studying Computer Science in the Grainger College of Engineering at UIUC. I love contributing to open source software and learning about high-performance computing. I also have an interest in learning about different machine learning techniques, such as SVMs and Neural Networks.
+
+I'm currently maintaining an epidemic simulation repository called "Eir" which is written in Python.
+
+Don't hesitate to reach out if you have any questions!
+
+Email: mkjacob3 "at" illinois.edu
 <!--
 **mjacob1002/mjacob1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
