@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mathew and I am studying Computer Science in the Grainger College of Engineering at UIUC. Feel free to have a look around! 
+I'm Mat, a PhD student at the University of Washington. Previously, I got my bachelor's from UIUC.
 
 Email: mkjacob3 "at" illinois.edu
 <!--
