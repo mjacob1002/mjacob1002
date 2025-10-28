@@ -2,7 +2,7 @@
 
 I'm Mat, a PhD student at the University of Washington. Previously, I got my bachelor's from UIUC.
 
-Email: mkjacob3 "at" illinois.edu
+Email: mjacob2 "at" cs.washington.edu
 <!--
 **mjacob1002/mjacob1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
